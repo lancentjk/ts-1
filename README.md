@@ -1,5 +1,9 @@
 # test
 
+[☞](https://github.com/lancentjk/ts) https://ts.lancentjk.com/
+
+[☞](https://github.com/inchoong/ts/) https://ts.choong.net/
+
 # 关于【业务域名】- 微信公众号平台
 
 设置业务域名后，在微信内访问该域名下页面时，不会被重新排版。用户在该域名上进行输入时，不出现下图所示的安全提示。
