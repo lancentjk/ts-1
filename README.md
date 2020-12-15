@@ -3,7 +3,8 @@
 <details>
     <summary>
     主域名 <a href="http://www.lancentjk.com">lancentjk.com</a><br/>
- ☞ <a href="https://github.com/lancentjk/ts">https://ts.lancentjk.com/</a>
+ ☞测试ts <a href="https://github.com/lancentjk/ts">https://ts.lancentjk.com/</a><br/>
+ ☞测试ts <a href="https://github.com/inchoong/ts/">https://ts.choong.net/</a><br/>
      </summary>     
  【工业和信息化部】尊敬的用户XXX，
 您的ICP备案申请已通过审核，
@@ -11,8 +12,6 @@
 审核通过日期：2020-12-14。特此通知！<br/>
 【工信部ICP备案】12381 短信平台
 </details>
-
-[☞](https://github.com/inchoong/ts/) https://ts.choong.net/
 
 # 关于【业务域名】- @[微信公众号平台](https://mp.weixin.qq.com/)
 
